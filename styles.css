@@ -58,7 +58,7 @@ body {
 
 .header .links {
   display: flex;
-  gap: 15px
+  gap: 15px;
 }
 
 button {
@@ -124,4 +124,8 @@ button {
   border: 3px solid white;
   align-self: center;  
   width: 100px;
+}
+
+.footer {
+  padding: 2%;
 }
